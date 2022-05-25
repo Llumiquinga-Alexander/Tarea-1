@@ -44,3 +44,49 @@ SECCION 1
 
 ![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/4.png)
 
+10. Efectúe las siguientes sustracciones:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/5.png)
+
+12. Realice las siguientes divisiones:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/6.png)
+
+14. Exprese cada número en notación de ingeniería:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/7.png)
+
+16. Exprese cada número en notación de ingeniería:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/8.png)
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/9.png)
+
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/10.png)
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/11.png)
+
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/12.png)
+
+26. Exprese cada cantidad en notación de ingeniería:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/13.png)
+
+28. Determine lo siguiente:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/14.png)
+
+30. Realice las siguientes operaciones:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/15.png)
+
+SECCIÓN 2
+
