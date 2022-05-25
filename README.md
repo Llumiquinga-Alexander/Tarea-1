@@ -19,3 +19,12 @@ Conocer y aplicar de manera adecuada las formulas para llegar a los calculos req
 Márco teórico:
 
 ![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/f1.jpg)
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/f2.jpg)
+
+EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
+
+SECCION 1
+
+2. Exprese cada número fraccionario en notación científica:
+
