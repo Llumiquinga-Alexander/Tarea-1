@@ -1,4 +1,4 @@
-Informe tarea : del capitulo 1 y 2 Informe de la tarea # 1
+Informe tarea : Capitulo 1 y 2 Informe de la tarea # 1
 
 Nombre : Alexander Llumiquinga
 
