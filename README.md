@@ -184,11 +184,11 @@ La resolución máxima será 19.999 recuentos
 
 VIDEO
 
-
+https://youtu.be/fgverg-ZtxQ
 
 CONCLUSIONES
 
-
+Con la realizacion de los ejercicios del tema 1 y 2 del libro de Floyd se brindo el conocimiento necesario al estudiante para que pueda dar uso de las formulas de la ley de Ohm y las aplique para dar solucion a los problemas planteados. Ademas, se gano el conocimiento sobre lo basico referido a voltaje, resistencia y corriente.
 
 BIBLIOGRAFIA
 
