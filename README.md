@@ -10,11 +10,13 @@ Objetivos:
 
 Objetivo General: Adquirir el dominio del tema tratado para poder dar solucion a los problemas estipulados en el capítulo 1 y 2 del libro de Floyd
 
-Objetivos Específicos: Usar de manera adecuada las fórmulas de la ley de Ohm para dar solucion a los problemas planteados en el libro mencionado anteriormente.
+Objetivos Específicos: 
 
-Determinar mediante cálculos matemáticos la representación de los números en notación científica, como también en decimal regular y notación de Ingeniería.
+Usar de manera adecuada las fórmulas de la ley de Ohm para dar solucion a los problemas planteados en el libro mencionado anteriormente.
 
-Conocer y aplicar de manera adecuada las formulas para llegar a los calculos requeridos para los problemas descritos en el libro de Floyd.
+Determinar con ayuda de cálculos matemáticos la representación de los números en notación científica.
+
+Adquirir los conocimientos necesarios para saber que formula o procedimiento usar para dar solucion a los problemas descritos en el libro de Floyd.
 
 Márco teórico:
 
@@ -27,4 +29,18 @@ EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS:
 SECCION 1
 
 2. Exprese cada número fraccionario en notación científica:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/1.png)
+
+4. Exprese cada uno de los números siguientes en notación científica:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/2.png)
+
+6. Exprese cada uno de los números siguientes como un número decimal regular:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/3.png)
+
+8. Exprese cada número de los siguientes como un número decimal regular:
+
+![](https://github.com/Llumiquinga-Alexander/Tarea-1/blob/main/4.png)
 
